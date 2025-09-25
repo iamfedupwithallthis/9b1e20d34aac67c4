@@ -1,0 +1,5 @@
+Player URL:
+https://iamfedupwithallthis.github.io/player/?list=https://raw.githubusercontent.com/iamfedupwithallthis/9b1e20d34aac67c4/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/iamfedupwithallthis/9b1e20d34aac67c4/refs/heads/master/github_master.m3u8
